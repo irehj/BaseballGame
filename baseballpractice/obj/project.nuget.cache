@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JVgZBl70BDJsTfQXz7CLH2E9NrLGUsJQc9CvF6anWxM+yGWWuK6gJ12YYfmIQdO035JYjJZSxDyItPdVvqOoHg==",
+  "dgSpecHash": "0p46QwWC4Z1NXVAO6ZNs5zx1FrUxDu8YrqR4Ggs0Fm0YGwxFb2EfEdV/sBXKgWyQZHZCFu7F1MyFT5MpUvEpWA==",
   "success": true,
-  "projectFilePath": "/Users/irehj/Projects/baseballpractice/baseballpractice/baseballpractice.csproj",
+  "projectFilePath": "/Users/irehj/BaseballGame/baseballpractice/baseballpractice.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

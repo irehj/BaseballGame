@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/irehj/Projects/baseballpractice/baseballpractice/baseballpractice.csproj",
+      "projectUniqueName": "/Users/irehj/BaseballGame/baseballpractice/baseballpractice.csproj",
       "projectName": "baseballpractice",
-      "projectPath": "/Users/irehj/Projects/baseballpractice/baseballpractice/baseballpractice.csproj",
+      "projectPath": "/Users/irehj/BaseballGame/baseballpractice/baseballpractice.csproj",
       "packagesPath": "/Users/irehj/.nuget/packages/",
-      "outputPath": "/Users/irehj/Projects/baseballpractice/baseballpractice/obj/",
+      "outputPath": "/Users/irehj/BaseballGame/baseballpractice/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/irehj/.config/NuGet/NuGet.Config"
